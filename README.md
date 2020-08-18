@@ -8,7 +8,9 @@ Nice Article on MAP and Apply
 
 
 Sales Analysis Jupyter notebook shows the realworld application on Sales data. 
+
 REFERENCE : Solving real world data science tasks with Python Pandas! [source](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+
 Following Questions were answered, Once we have cleaned up our data a bit and then we move to the data exploration section. In this section we explore 5 high level business questions related to our data:
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
